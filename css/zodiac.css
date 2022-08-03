@@ -1,0 +1,66 @@
+.zodiac {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px ;
+}
+
+.zodi {
+    display: flex;
+    flex-direction: column;
+    margin-left: 60%;
+    margin-bottom: 5rem;
+    margin-right: 1rem;
+    margin-top: 290px;
+    width: calc(25% - 5rem);
+}
+
+.zodiac-img {
+    border-radius: 20px;
+    width: 490px;
+    height: 220px;
+}
+
+.ibov {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px ;
+    margin-top: 72%;
+    width: 110%;
+}
+
+.ibo {
+    display: flex;
+    flex-direction: column;
+    margin-left: 46%;
+    margin-bottom: 5rem;
+    margin-right: 1rem;
+    margin-top: -1220px;
+    width: calc(25% - 5rem);
+}
+
+.ibov-img {
+    border-radius: 20px;
+    width: 200px;
+}
+
+.mega {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 100px ;
+    margin-top: -14%;
+    width: 110%;
+}
+
+.meg {
+    display: flex;
+    flex-direction: column;
+    margin-left: 61%;
+    margin-bottom: 5rem;
+    margin-right: 1rem;
+    margin-top: -1220px;
+    width: calc(25% - 5rem);
+}
+
+.mega-img {
+    border-radius: 20px;
+}

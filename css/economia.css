@@ -1,0 +1,43 @@
+.eco {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5rem 0 0 5rem;
+
+}
+
+.economia {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+    margin-top: -50%;
+    margin-left: 75%;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    width: calc(25% - 5rem);
+}
+
+.economias {
+    color: orangered;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+
+.sobre {
+    color: black;
+    
+    margin-left: 20px;
+    font-size: 20px;
+    text-align: justify;
+    width: -50%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-top: -10px;
+}
+
+.pg {
+    display: flex;
+    width: 250px;
+    margin-top: 170px;
+    margin-left: 8%;
+    border-radius: 10px;
+}

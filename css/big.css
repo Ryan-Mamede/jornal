@@ -1,0 +1,23 @@
+.bigb {
+    margin-top: 15px;
+    padding: 0 10px;
+    
+}
+
+.big {
+    border-radius: 20px;
+    width: 55%;
+
+}
+
+.big-descricao {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    margin-top: -70px;
+    
+}
+
+.agente-titulo {
+    margin-top: -500;
+}

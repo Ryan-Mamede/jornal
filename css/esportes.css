@@ -1,0 +1,45 @@
+.esp {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 40%;
+    margin-top: -42%;
+}
+
+.esporte {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-bottom: 5rem;
+    margin-right: 5rem;
+    width: calc(25% - 5rem);
+}
+
+.esportes {
+    color: green;
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.descricao {
+    color: black;
+    margin-left: 70px;
+    font-size: 20px;
+    text-align: justify;
+    width: 150%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    margin-top: -10px;
+}
+
+
+
+
+
+
+
+.mn {
+    width: 200px;
+    margin-top: 200px;
+    margin-left: 60%;
+    border-radius: 10px;
+}

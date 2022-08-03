@@ -1,0 +1,86 @@
+html {
+    background-color: #d3d3d3;
+}
+
+.principal {
+    display: flex;
+    flex-wrap: wrap;
+    background: white;
+    margin-right: 600px;
+    border-radius: 10px; ;
+    margin-top: 3%;  
+}
+
+.principal-2 {
+    display: flex;
+    flex-wrap: wrap;
+    background: white;
+    margin-right: 600px;
+    border-radius: 10px; ;
+    margin-top: -84%;  
+}
+
+.principal-3 {
+    margin-top: -1125px;
+}
+
+.bbb {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 1%;
+}
+
+.bigb {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+}
+
+.big {
+    border-radius: 20px;
+}
+
+.big-titulo {
+    color: yellow;
+    font-weight: bold;
+    margin-top: -100px;
+}
+
+.big-descri {
+    color: blue;
+    font-size: 25px;
+    font-weight: bold;
+    width: 100%;
+}
+
+footer {
+    background-color: #474A51;
+    padding: 2px 0;
+    position: absolute;
+    width: 100%;
+    
+}
+
+
+.copyright {
+    position: absolute;
+    color: white;
+    width: 100%;
+    margin-top: 50px
+ 
+}
+
+.copy {
+    color: white;
+    margin-left: 1230px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+.cop {
+    position: absolute;
+    color: white;
+    text-decoration: underline;
+    margin-left: 1000px;
+    margin-top: -2.5%;
+}

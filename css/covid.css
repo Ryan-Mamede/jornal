@@ -1,0 +1,19 @@
+.covid {
+    position: relative;
+    margin-top: 6%;
+}
+
+
+.titulo {
+    color: blueviolet;
+    font-size: 20px;
+    margin-left: 50px;
+    height: 5px;
+}
+
+.covid-img {
+    display: flex;
+    width: 600px;
+    border-radius: 10px;
+    margin-left: 50px;
+}

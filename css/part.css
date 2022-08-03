@@ -1,0 +1,22 @@
+.agente {
+    margin-top: 450px;
+    position: absolute;
+}
+
+
+.agente-img {
+    border-radius: 20px;
+    width: 700px;
+    margin-top: -50px;
+    height: 420px;
+}
+
+.agente-titulo {
+    color: white;
+    font-size: 28px;
+    font-weight: bold;    
+    position: absolute;
+    margin-left: -690px;
+    margin-top: 250px; 
+}
+
